@@ -5,7 +5,7 @@
 
 ------
 
-## Web Components using
+## Web Components using [tailwindcss](https://tailwindcss.com)
 
 A curated list of web components:
 
@@ -20,7 +20,7 @@ A curated list of web components:
 
 ## Contributing
 
-If you're interested in contributing to Tailwind CSS Web Components, please read our [contributing docs](./CONTRIBUTING.md) **before submitting a pull request**
+If you're interested in contributing to Tailwind CSS Web Components, please read [contributing docs](./CONTRIBUTING.md) **before submitting a pull request**
 
 ## License
 
