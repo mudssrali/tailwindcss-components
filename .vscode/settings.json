@@ -1,0 +1,8 @@
+{
+	"files.exclude": {
+		"/node_modules": true
+	},
+	"editor.insertSpaces": false,
+	"editor.autoIndent": "none",
+	"editor.tabSize": 4,
+}
