@@ -1,7 +1,8 @@
 import React from 'react'
 import { SimpleCard1, SimpleCard2 } from './components/Cards'
 import { SimpleNotification1 } from './components/Notifications'
-import { SimpleMarketingPage } from './pages/MarketingPage'
+import { SimpleMarketingPage } from './components/MarketingPage'
+import { GroupHover1 } from './components/Hovers'
 
 function App() {
 	return (<>
@@ -9,6 +10,7 @@ function App() {
 		<SimpleCard2 />
 		<SimpleNotification1 />
 		<SimpleMarketingPage />
+		<GroupHover1 />
 	</>)
 }
 

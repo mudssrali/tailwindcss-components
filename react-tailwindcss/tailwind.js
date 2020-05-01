@@ -709,6 +709,7 @@ module.exports = {
     transitionTimingFunction: ['responsive'],
     transitionDuration: ['responsive'],
     transitionDelay: ['responsive'],
+    textColor: ['responsive', 'hover', 'focus', 'group-hover'],
   },
   corePlugins: {},
   plugins: [],
