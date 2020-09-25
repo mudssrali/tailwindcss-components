@@ -14,14 +14,15 @@ const Navbar = () => {
 					<nav>
 						<ul className="md:flex items-center justify-between text-base text-red-500 pt-4 md:pt-0">
 							<li><a href="/home" className="inline-block no-underline hover:text-black font-medium text-lg py-2 px-4 lg:-ml-2">Home</a></li>
-							<li><a href="/analytics" className="inline-block no-underline hover:text-black font-medium text-lg py-2 px-4 lg:-ml-2">Analytics</a></li>
+							<li><a href="/analytics" className="inline-block no-underline hover:text-black font-medium text-lg py-2 px-4 lg:-ml-2">About</a></li>
 						</ul>
 					</nav>
 				</div>
 
 				<div className="order-2 md:order-3 flex flex-wrap items-center justify-end mr-0 md:mr-4">
 					<div className="flex items-center w-full md:w-full">
-						<a href="/login" className="bg-transparent text-red-500 px-4 py-1 rounded border border-red-500 mr-4 hover:bg-red-400 hover:text-white">Logout</a>
+						<a href="/login" className="bg-transparent text-red-500 px-4 py-1 rounded border border-red-500 mr-4 hover:bg-red-400 hover:text-white">Sigup</a>
+						<a href="/login" className="bg-transparent text-red-500 px-4 py-1 rounded border border-red-500 hover:bg-red-400 hover:text-white">Login</a>
 					</div>
 				</div>
 			</div>
@@ -29,4 +30,4 @@ const Navbar = () => {
 	)
 }
 
-export { }
+export { Navbar }
